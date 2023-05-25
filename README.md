@@ -39,5 +39,7 @@ Untuk controlling sensor bisa melalui button, sedangkan buzzer dapat di controll
 
 
 2. Implementasi
+![WhatsApp Image 2023-05-25 at 15 33 49](https://github.com/nurhidayahanugrah/pa-praktikum-iot-unmul-b1/assets/102194104/8316970b-e48f-4005-8f28-74b1d4136080)
+![WhatsApp Image 2023-05-25 at 15 15 39](https://github.com/nurhidayahanugrah/pa-praktikum-iot-unmul-b1/assets/102194104/a05dd495-49bc-40cf-af49-e95af2ef61d3)
 
 
